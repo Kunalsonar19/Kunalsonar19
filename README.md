@@ -118,4 +118,4 @@
 <br/>
 <h2>📈 My Contribution Graph </h2><br>
 <br/>
-<a href="https://github.com/Kunalsonar19"><img alt="Kunal Sonar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunalsonar19&bg_color=000000&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false&border-radius=50px" /></a>
+<a href="https://github.com/Kunalsonar19"><img alt="Kunal Sonar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kunalsonar19&bg_color=000000&color=ffffff&line=ff1af0&point=ffffff&area=true&hide_border=true" /></a>
