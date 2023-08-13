@@ -67,7 +67,7 @@
 <br><br>
 <!-- <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200px" align="right"> -->
 <em align="left">
-    <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Talking about Personal Stuffs...
+    <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Talking About Personal Stuffs...
     </h2>
 </em>
 <br>
@@ -125,16 +125,24 @@
                         alt="kunalsonar007" /></p><br>
                 <h2>📊 My Github Stats : </h2><br>
                 <br />
-                <p align="left">
+                <p align="center">
                     <a href="https://github.com/Kunalsonar007">
-                        <img alt="Kunal Sonar's Github Stats"
-                            src="https://github-readme-stats.vercel.app/api?username=Kunalsonar007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-                    <a href="https://github.com/Kunalsonar007">
-                        <img alt="Kunal Sonar's Top Languages"
-                            src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-                            width="420px" /></a>
-                </p>
-                 <br/>
+  <img height=200 width="500px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=Kunalsonar007&show_icons=true&count_private=true&rank_icon=github" />
+</a>
+<a href="https://github.com/Kunalsonar007">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunalsonar007&layout=compact&langs_count=8&card_width=320" />
+</a>
+</p>
+ 
+<p>
+    <a href="https://github.com/Kunalsonar007/Crypto-Hunter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Crypto-Hunter">     
+    </a>
+
+ <a href="https://github.com/Kunalsonar007/Weather-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Weather-App">     
+    </a>
+    <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <br/>
