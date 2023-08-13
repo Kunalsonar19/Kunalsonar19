@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
-<h1 align="center">नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+<h1 align="center">Hiii <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
         width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚 </h1>
 <h3 align="center">𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 | 𝖠𝖨/𝖬𝖫 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍𝗂𝖼</h3>
 <p align="center">
@@ -45,26 +45,24 @@
             width="30" />
     </a>
 </p>
-<br>
+<br><br>
 <p align="center">
     <big>
-        𝖳𝗁𝗂𝗌 𝗂𝗌 𝖬𝖤, 𝖪𝗎𝗇𝖺𝗅 𝖶𝖺𝗇𝗄𝗁𝖾𝖽𝖾 𝖺𝗄𝖺 <b>𝗞𝗿𝗮𝘇𝘆𝘆 𝗞𝘂𝗻𝗮𝗹</b>&nbsp; <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20" /><br><br>
+        𝖳𝗁𝗂𝗌 𝗂𝗌 𝖬𝖤, 𝖪𝗎𝗇𝖺𝗅 𝖶𝖺𝗇𝗄𝗁𝖾𝖽𝖾 𝖺𝗄𝖺 <b>𝗞𝗿𝗮𝘇𝘆𝘆 𝗞𝘂𝗻𝗮𝗹</b>&nbsp; <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20" /><br>
         𝖠 𝗉𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 <b>𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</b> 
         & <b>𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁</b>&nbsp;
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true"
             width="36px">
-        &nbsp;<br>𝗐𝗁𝗈 𝗂𝗌 <b>𝗼𝗯𝘀𝗲𝘀𝘀𝗲𝗱</b>
-        𝗐𝗂𝗍𝗁 𝗍𝗁𝖾 𝗂𝖽𝖾𝖺 𝗈𝖿 <b>𝗶𝗺𝗽𝗿𝗼𝘃𝗶𝗻𝗴</b> 𝖨 𝗅𝗂𝗄𝖾 𝗍𝗈 𝖢𝗈𝖽𝖾, 𝖣𝖾𝗌𝗂𝗀𝗇,
-        𝖨𝗇𝗇𝗈𝗏𝖺𝗍𝖾 𝖺𝗇𝖽 <b> 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁</b>
+        &nbsp;<br><br> 𝖨 𝗅𝗂𝗄𝖾 𝗍𝗈 𝖢𝗈𝖽𝖾, 𝖣𝖾𝗌𝗂𝗀𝗇,
+        𝖨𝗇𝗇𝗈𝗏𝖺𝗍𝖾 𝖺𝗇𝖽 <u><b> 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁</b></u>
           <img
             src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true"
             width="30px">
     </big>
     <br><br>
-    ​<i>
-        🇹​​🇭​​🇴​​🇺​​🇬​​🇭​​🇹​ ⦂ ❝​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇼​​🇭​​🇮​​🇱​​🇪​ ​🇭​​🇴​​🇵​​🇮​​🇳​​🇬​ &
-        ​🇭​​🇺​​🇸​​🇹​​🇱​​🇮​​🇳​​🇬​❗❗❗”
-    </i></b>
+    ​<em>
+        🇹​​🇭​​🇴​​🇺​​🇬​​🇭​​🇹​ ⦂ ❝​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇼​​🇭​​🇮​​🇱​​🇪​ ​🇭​​🇴​​🇵​​🇮​​🇳​​🇬​ & ​🇭​​🇺​​🇸​​🇹​​🇱​​🇮​​🇳​​🇬​ !!!❝
+    </em></b>
 </p>
 <br><br>
 <!-- <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200px" align="right"> -->
