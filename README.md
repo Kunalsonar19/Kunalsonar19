@@ -72,13 +72,13 @@
 </em>
 <br>
 <p>
-    ✔ Pronouns:Talking About Personal Stuffs... <br>
-    ✔ I’m currently Developing **My Portfolio** <br>
-    ✔ I’m currently learning **openApi Specification** & **azure fundamentals**<br>
-    ✔ I'm quite good at **NodeJs**, **ReactJs**, **openApi**, **Next.js**.<br>
-    ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-    ✔ I’m looking for help for learning **Ios Development**<br>
-    ✔ Have a look over My personal [Portfolio Website](https://krazyykunal.vercel.app/)<br>
+    ✔ Pronouns: He/ Him Or 𝗧𝗲𝗮𝗺-𝗠𝗮𝗸𝗲𝗿<br>
+    ✔ I’m currently Developing 𝗔𝗜 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁<br>
+    ✔ I’m currently learning 𝗢𝗽𝗲𝗻𝗔𝗽𝗶 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴<br>
+    ✔ I'm quite good at 𝗡𝗼𝗱𝗲𝗝𝘀, 𝗥𝗲𝗮𝗰𝘁 𝗝𝘀, 𝗢𝗽𝗲𝗻𝗔𝗽𝗶, 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃<br>
+    ✔ I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br>
+    ✔ I’m looking for help for learning 𝗜𝗢𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br>
+    ✔ Have a look over My personal Website(https://krazyykunal.vercel.app/)<br>
     ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
     ✔ Fun fact : *I always try to learn something new and then sleep till it store in my brain*😉
 </p>
