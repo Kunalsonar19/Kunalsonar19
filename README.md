@@ -72,7 +72,7 @@
 </em>
 <br>
 <p>
-    ✔ Pronouns: **He/His** or **TeamMaker**😉 <br>
+    ✔ Pronouns:Talking About Personal Stuffs... <br>
     ✔ I’m currently Developing **My Portfolio** <br>
     ✔ I’m currently learning **openApi Specification** & **azure fundamentals**<br>
     ✔ I'm quite good at **NodeJs**, **ReactJs**, **openApi**, **Next.js**.<br>
@@ -103,69 +103,43 @@
                         align="center" />
                 </p>
                 <br>
-                <h2 align="left">🧑‍💻 Connect with me :</h2>
-                <p align="left">
-                    <a href="https://codepen.io/kunalsonar007" target="blank"><img align="center"
-                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-                            alt="@kunalsonar007" height="30" width="40" /></a>
-                    <a href="https://stackoverflow.com/users/18430665/kunal-sonar" target="blank"><img align="center"
-                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                            alt="user:18430665" height="30" width="40" /></a>
-                    <a href="https://instagram.com/kunal_sonar_19" target="blank"><img align="center"
-                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                            alt="kunal_sonar_19" height="30" width="40" /></a>
-                    <a href="https://www.hackerrank.com/Kunalsonar007?hr_r=1" target="blank"><img align="center"
-                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-                            alt="@Kunalsonar007" height="30" width="40" /></a>
-                </p>
-                <br>
-                <h2 align="left"> 🔥 My Github Streaks :</h2>
-                <p align="center"><img align="center"
+                <em>
+                <h2 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Github Streaks :</h2>
+                    </em>
+                <p align="left"><img align="center"
                         src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsonar007&"
-                        alt="kunalsonar007" /></p><br>
-                <h2>📊 My Github Stats : </h2><br>
+                        alt="kunalsonar007" />
+                </p><br>
+                <em>
+                <h2 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Github Stats : </h2>
+                    </em><br>
                 <br />
-                <p align="center">
+                <p align="left">
                     <a href="https://github.com/Kunalsonar007">
-  <img height=200 width="500px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=Kunalsonar007&show_icons=true&count_private=true&rank_icon=github" />
+  <img height=200 width="auto" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=Kunalsonar007&show_icons=true&count_private=true&rank_icon=github" />
 </a>
 <a href="https://github.com/Kunalsonar007">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunalsonar007&layout=compact&langs_count=8&card_width=320" />
 </a>
-</p>
- 
-<p>
-    <a href="https://github.com/Kunalsonar007/Crypto-Hunter">
+<br><br>
+<a href="https://github.com/Kunalsonar007/Crypto-Hunter">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Crypto-Hunter">     
     </a>
-
  <a href="https://github.com/Kunalsonar007/Weather-App">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Weather-App">     
     </a>
-    <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+    </p>
+    <br/>  
   <br/>
-<br/>
-<br/>
-<br/>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Kunalsonar007&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 📈 My GitHub Contributions
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunalsonar007&theme=dark)
+<em>
+<h2 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Top Contribution :</h2>
+  
+</em>
 <br>
-<br>
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15" align="center"> -->
-
+<br> 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kunalsonar007&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 <br>
 <br>
 ![](https://raw.githubusercontent.com/Kunalsonar007/Kunalsonar007/a6638947f51099071b2f61f963c7c6b2ad08d750/github-user-contribution.svg)
-<br>
 <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" align="center">
