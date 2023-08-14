@@ -134,9 +134,14 @@
 </em>
 <br>
 <br> 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kunalsonar007&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+
 <br>
-<br>
+
 ![](https://raw.githubusercontent.com/Kunalsonar007/Kunalsonar007/a6638947f51099071b2f61f963c7c6b2ad08d750/github-user-contribution.svg)
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" align="center">
+    </p>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" align="center">
