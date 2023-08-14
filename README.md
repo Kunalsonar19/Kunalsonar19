@@ -17,30 +17,30 @@
         width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚 </h1>
 <h3 align="center">𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 | 𝖠𝖨/𝖬𝖫 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍𝗂𝖼</h3>
 <p align="center">
-    <a href="" target="blank">
+    <a href="https://www.linkedin.com/in/kunal-wankhede-295680249/" target="blank">
         <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
-    </a>
-    <a href="" target="blank">
+    </a>&nbsp;
+    <a href="https://www.instagram.com/krazyykunal_21/" target="blank">
         <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram" height="30" width="30" />
-    </a>
-    <a href="" target="blank">
+    </a>&nbsp;
+    <a href="https://www.hackerrank.com/Kunalsonar007?hr_r=1" target="blank">
         <img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="hackerrank" height="30"
             width="30" />
-    </a>
-    <a href="" target="blank">
+    </a>&nbsp;
+    <a href="https://stackoverflow.com/users/18430665/krazyy-kunal" target="blank">
         <img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" alt="stack-overflow" height="30"
             width="30" />
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank">
+    </a>&nbsp;
+    <a href="https://www.threads.net/@krazyykunal_21" target="blank">
         <img align="center" src="https://simpleicons.org/icons/threads.svg" alt="threads" height="30" width="30" />
-    </a>
+    </a>&nbsp;
     <a href="mailto: kunalwankhede958@gmail.com">
         <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="30" alt="gmail" />
-    </a>
-    <a href="" target="_blank">
+    </a>&nbsp;
+    <a href="https://linktr.ee/krazyyykunal" target="_blank">
         <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="Linktree" height="30" width="30" />
-    </a>
-    <a href="" target="_blank">
+    </a>&nbsp;
+    <a href="https://krazyykunal.vercel.app/" target="_blank">
         <img align="center" src="https://simpleicons.org/icons/kahoot.svg" alt="Akashchowrasia" height="30"
             width="30" />
     </a>
@@ -71,17 +71,14 @@
     </h2>
 </em>
 <br>
-<p>
-    ✔ Pronouns: He/ Him Or 𝗧𝗲𝗮𝗺-𝗠𝗮𝗸𝗲𝗿<br>
-    ✔ I’m currently Developing 𝗔𝗜 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁<br>
-    ✔ I’m currently learning 𝗢𝗽𝗲𝗻𝗔𝗽𝗶 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴<br>
-    ✔ I'm quite good at 𝗡𝗼𝗱𝗲𝗝𝘀, 𝗥𝗲𝗮𝗰𝘁 𝗝𝘀, 𝗢𝗽𝗲𝗻𝗔𝗽𝗶, 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃<br>
-    ✔ I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br>
-    ✔ I’m looking for help for learning 𝗜𝗢𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br>
-    ✔ Have a look over My personal Website(https://krazyykunal.vercel.app/)<br>
-    ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-    ✔ Fun fact : *I always try to learn something new and then sleep till it store in my brain*😉
-</p>
+    ✔ Pronouns: He/ Him Or 𝗧𝗲𝗮𝗺-𝗠𝗮𝗸𝗲𝗿<br><br>
+    ✔ I’m currently Developing 𝗔𝗜 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁<br><br>
+    ✔ I’m currently learning 𝗢𝗽𝗲𝗻𝗔𝗽𝗶 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴<br><br>
+    ✔ I'm quite good at 𝗡𝗼𝗱𝗲𝗝𝘀, 𝗥𝗲𝗮𝗰𝘁 𝗝𝘀, 𝗢𝗽𝗲𝗻𝗔𝗽𝗶, 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃<br><br>
+    ✔ I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
+    ✔ I’m looking for help for learning 𝗜𝗢𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
+    ✔ Have a look over my personal website https://krazyykunal.vercel.app/<br><br>
+    ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br>
 <br>
 <em align="left">
     <h2>
