@@ -3,6 +3,16 @@
         align="center">
 </div>
 <br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Kunalsonar007&color=brightgreen" alt="watching_count" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Age-21-blueviolet" />
+    <img src="https://img.shields.io/badge/Focus-AI/ML%20Development-green" />
+    <img src="https://img.shields.io/badge/Lives-Mumbai-success" />
+    <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
+</p>
+<hr>
 <h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙎𝙤𝙣𝙖𝙧 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px"></h1>
 <h3 align="center">ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴀɪ/ᴍʟ ᴇɴᴛʜᴜꜱɪᴀꜱᴛɪᴄ</h3>
 <p align="center">
@@ -27,10 +37,10 @@
 </p>
 
 <p align="center"> 
-    <img src="https://cdn.dribbble.com/users/1012566/screenshots/3776022/buttercup-flying.gif" aligh="center" width="250px">
+    <img src="https://64.media.tumblr.com/1bd16cc86de7d81df934ea8439ed16bf/tumblr_n3ye6c5MF41r4iqlro1_400.gif" aligh="center" width="200px">
     </p>
-<h3 align="center">I ❤️ Fɾσɳƚҽɳԃ Dҽʋҽʅσρɱҽɳƚ</h3>
-<p align="center">⭐ 𝙁𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙩𝙖𝙥 𝙞𝙣𝙩𝙤 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 – 𝙄'𝙢 𝙝𝙚𝙧𝙚 𝙩𝙤 𝙖𝙨𝙨𝙞𝙨𝙩, 𝙗𝙪𝙩 𝙡𝙚𝙩'𝙨 𝙠𝙚𝙚𝙥 𝙩𝙝𝙚 𝙘𝙤𝙣𝙫𝙚𝙧𝙨𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙢𝙮 𝙧𝙚𝙖𝙡𝙢 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚!! ⭐
+<h3 align="center">I ❤️ αι/ɱʅ Dҽʋҽʅσρɱҽɳƚ</h3>
+<p align="center">🌟 𝘾𝙪𝙧𝙞𝙤𝙪𝙨 𝙢𝙞𝙣𝙙𝙨 𝙬𝙚𝙡𝙘𝙤𝙢𝙚! 𝙄𝙛 𝙩𝙝𝙚 𝙩𝙤𝙥𝙞𝙘'𝙨 𝙬𝙞𝙩𝙝𝙞𝙣 𝙢𝙮 𝙙𝙤𝙢𝙖𝙞𝙣, 𝙄'𝙢 𝙝𝙚𝙧𝙚 𝙬𝙞𝙩𝙝 𝙖𝙣𝙨𝙬𝙚𝙧𝙨 𝙧𝙚𝙖𝙙𝙮 𝙩𝙤 𝙧𝙤𝙡𝙡!! 🌟
 </p>
     
 <br><br>
