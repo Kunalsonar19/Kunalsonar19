@@ -49,13 +49,13 @@
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Introducing: About Me
     </h2>
 </em>
-    🍭 Self-Thought Front-end Product Developer <br><br>
-    🍭 I’m currently Developing 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝗱𝗶𝘀𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲<br><br>
-    🍭 I’m currently learning 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁<br><br>
-    🍭 I'm quite good at 𝗛𝗧𝗠𝗟 - 𝗖𝗦𝗦 - 𝗝𝗦<br><br>
+    🍭 Self-Thought 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 <br><br>
+    🍭 I’m currently Developing 𝗦𝗽𝗮𝗰𝗲 𝗥𝗲𝗮𝗰𝘁 𝗔𝗽𝗽<br><br>
+    🍭 I’m currently learning 𝗔𝗪𝗦 & 𝗢𝗽𝗲𝗻𝗔𝗽𝗶<br><br>
+    🍭 I'm quite good at 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
     🍭 I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
-    🍭 I’m looking for help for learning 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
-    🍭 Have a look over my personal website https://kalyani-portfolio.vercel.app/<br><br>
+    🍭 I’m looking for help for learning 𝗠𝗟 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
+    🍭 Have a look over my personal website https://krazyykunal.vercel.app/<br><br>
 
 <br><br>
 
@@ -66,15 +66,16 @@
 </em>
 <em align="center">
     <h3> 🪄 Programming Stuffs</h3><em>
-        <p align="center">
-            <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,tailwind,md,mysql,php"
-                align="center" />
+       <p align="center">
+            <img src="https://skillicons.dev/icons?i=angular,cpp,dart,django,dotnet,express,flask,flutter,go,gradle,java,js,jquery,kotlin,nodejs"
+                align="center" /> <br><br>
+            <img src="https://skillicons.dev/icons?i=php,py,react,vue,ts" align="center">
         </p>
         <br><br>
         <em align="center">
             <h3> 🪄 Tools & Technology</h3><em>
                 <p align="center">
-                    <img src="https://skillicons.dev/icons?i=codepen,git,linux,netlify,replit,stackoverflow,vscode,vercel,wordpress"
+                    <img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,cloudflare,docker,figma,firebase,gcp,git,gitlab,mongodb,postman,stackoverflow,xd"
                         align="center" />
                 </p>
                 <em>
@@ -88,10 +89,10 @@
 </em>
 <br>
 <span align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyani0704">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsonar19">
     </span>
     <span align="right">
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/113/328/624.gif" align="right" width="300px">
+<img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" align="right" width="250px">
     </span>
     
 <br><br>
@@ -102,17 +103,17 @@
     </h2>
 </em>
   <p align="left">
-                    <a href="https://github.com/kalyani0704/">
-  <img height=200 width="400px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=kalyani0704&show_icons=true&count_private=true&rank_icon=github" />
+                    <a href="https://github.com/Kunalsonar19/">
+  <img height=200 width="400px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=Kunalsonar19&show_icons=true&count_private=true&rank_icon=github" />
 </a>
 <a href="https://github.com/kalyani0704">
-  <img height="200px" width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyani0704&layout=compact&langs_count=8&card_width=320" />
+  <img height="200px" width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunalsonar19&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/kalyani0704/Dribble-Sign-Up">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyani0704&repo=Dribble-Sign-Up">     
+<a href="https://github.com/Kunalsonar19/wizarding-world">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar19&repo=wizarding-world">     
     </a>
- <a href="https://github.com/kalyani0704/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyani0704&repo=Portfolio">     
+ <a href="https://github.com/Kunalsonar19/Rose-Day-2k23">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar19&repo=Rose-Day-2k23">     
     </a>
     </p>
     <br/>  
@@ -125,15 +126,14 @@
 <br>
 <br> 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kalyani0704&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Kunalsonar19&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
 <br>
 <p align="center">
-<img src="https://github.com/kalyani0704/kalyani0704/assets/103521226/bc1a80b2-6032-48f2-82d4-6e31fd536281" width="85%">    
+<img src="https://github.com/Kunalsonar19/Kunalsonar19/assets/119497193/36b7bc21-4a9d-4874-96fb-0d154057bd51" width="85%">    
 <br>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5eee8d173a3cfc6d99c21024/1610396894101-J40AG4B3WZ204AEP1RVE/blossom_idle_puzzle.gif" align="center" width="200px">
-<img src="https://images.squarespace-cdn.com/content/v1/5eee8d173a3cfc6d99c21024/1610396900303-QNKFCG8ERKD58UQDBF4Y/buttercup_idle_puzzle_1.gif" align="center" width="200px">
-<img src="https://images.squarespace-cdn.com/content/v1/5eee8d173a3cfc6d99c21024/1610396896334-F5WKCHZNXBEQLXE6VYJW/bubbles_idle_puzzle.gif" align="center" width="200px">
 
-<img src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/02e5956fbf95125d217e0968667fd4fb30ce73db/sample.svg" width="100%">
+<img src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" align="center" width="300px">
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" align="center">
