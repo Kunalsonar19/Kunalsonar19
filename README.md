@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/Kunal.gif" width="100%"
+    <img src="https://i.ibb.co/3fc9TBX/Green-White-Geometric-Personal-Photo-Linked-In-Banner.jpg" width="100%"
         align="center">
 </div>
 <br>
