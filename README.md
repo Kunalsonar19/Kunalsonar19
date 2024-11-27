@@ -85,11 +85,7 @@
 <br>
 <span align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsonar19">
-    </span>
-    <span align="right">
-<img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" align="right" width="250px">
-    </span>
-    
+    </span>  
 <br><br>
 
 <em align="left">
@@ -107,7 +103,7 @@
 <a href="https://github.com/Kunalsonar19/Blossoms-of-Love-">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar19&repo=Blossoms-of-Love-">     
     </a>
- <a href="https://github.com/Duryodhan/Duryodhan-AI">
+ <a href="https://github.com/Kunalsonar19/10-monthiversary">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar19&repo=10-monthiversary">     
     </a>
     </p>
@@ -125,10 +121,13 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/Duryodhan/Duryodhan/assets/119497193/36b7bc21-4a9d-4874-96fb-0d154057bd51" width="85%">    
-<br>
-
-
-<img src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" align="center" width="300px">
+<img src="https://github.com/user-attachments/assets/9dac25ba-7120-48dd-862d-d7b589190b1c" width="80%">  
+    <br>
+    <img src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" align="center" width="300px">
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" align="center">
+
+</p>
+
+
+
