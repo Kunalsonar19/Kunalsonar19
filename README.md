@@ -1,4 +1,7 @@
-<br>
+
+<p align="center">
+    <img src="https://i.ibb.co/BnYPMWj/Duryodhan-transformed.jpg" alt="watching_count" width="100%" />
+</p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Duryodhan&color=brightgreen" alt="watching_count" />
 </p>
@@ -6,7 +9,6 @@
     <img src="https://img.shields.io/badge/आयु-28-blueviolet" />
     <img src="https://img.shields.io/badge/ध्यान-AI/ML%20विकास-green" />
     <img src="https://img.shields.io/badge/निवास-हस्तिनापुर-success" />
-    <img src="https://img.shields.io/badge/भाषाएँ-हिंदी%20और%20अंग्रेज़ी-red" />
 </p>
 <hr>
 <h1 align="center">नमस्ते, मैं दुर्योधन ⚔️</h1>
